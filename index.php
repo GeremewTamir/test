@@ -9,13 +9,13 @@
 <form name="myform">
 	<h3> Some php forms</h3>
 	<h2>This is Login page</h2>
-	<label for="Name">Name</label>
+	<label for="Name">Name</label><br>
 	<input type="text" name="Username">
 <br>
-	<label for="Password">password and sth</label>
+	<label for="Password">password and sth</label><br>
 	<input type="Password" name="Pword">
 <br>
-	<label>Submit</label>
+	<label>Submit</label><br>
 	<input type="Submit" name="Register">
 </form>
 </body>
